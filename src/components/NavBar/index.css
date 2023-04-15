@@ -1,0 +1,22 @@
+.nav-bg {
+  background-image: linear-gradient(45deg, #9796f0, #9796f0);
+  border: 2px solid #9796f0;
+  height: 70%;
+}
+.name-container {
+  display: flex;
+  align-items: center;
+}
+.score-container {
+  display: flex;
+}
+.content-bg {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: auto;
+  flex-grow: 1;
+}
+.score {
+  margin-right: 18px;
+}
